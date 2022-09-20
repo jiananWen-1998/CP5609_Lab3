@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CP5609_Lab3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/桌面/CP5609-Lab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CP5609_Lab3">
+				<Option output="D:/桌面/CP5609-Lab3/cmake-build-debug/CP5609_Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/桌面/CP5609-Lab3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/桌面/CP5609-Lab3/."/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 CP5609_Lab3"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CP5609_Lab3/fast">
+				<Option output="D:/桌面/CP5609-Lab3/cmake-build-debug/CP5609_Lab3.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/桌面/CP5609-Lab3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/桌面/CP5609-Lab3/."/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 CP5609_Lab3/fast"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/桌面/CP5609-Lab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/桌面/CP5609-Lab3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mingw64/bin/mingw32-make.exe -f &quot;D:/桌面/CP5609-Lab3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/桌面/CP5609-Lab3/BoardCells.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/BoardCells.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/BoardObject.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Common.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Controller.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Controller.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Cookie.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Cookie.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/GameCell.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/GameCell.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/ListBoardObjects.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/ListBoardObjects.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Model.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Model.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Player.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Player.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/QT/Tutorial3.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/QT/Tutorial4.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/QT/Tutorial5.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/QT/Tutorial6.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Wall.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/Wall.h">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/main.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/moc_Controller.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/moc_GameCell.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/moc_Model.cpp">
+			<Option target="CP5609_Lab3"/>
+		</Unit>
+		<Unit filename="D:/桌面/CP5609-Lab3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

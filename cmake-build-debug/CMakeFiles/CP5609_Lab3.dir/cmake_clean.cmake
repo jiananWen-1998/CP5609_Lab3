@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/CP5609_Lab3.dir/BoardCells.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/BoardCells.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/Controller.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/Controller.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/Cookie.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/Cookie.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/GameCell.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/GameCell.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/ListBoardObjects.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/ListBoardObjects.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/Model.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/Model.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/Player.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/Player.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial3.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial3.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial4.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial4.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial5.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial5.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial6.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/QT/Tutorial6.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/Wall.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/Wall.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/main.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/main.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/moc_Controller.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/moc_Controller.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/moc_GameCell.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/moc_GameCell.cpp.obj.d"
+  "CMakeFiles/CP5609_Lab3.dir/moc_Model.cpp.obj"
+  "CMakeFiles/CP5609_Lab3.dir/moc_Model.cpp.obj.d"
+  "CP5609_Lab3.exe"
+  "CP5609_Lab3.exe.manifest"
+  "CP5609_Lab3.pdb"
+  "libCP5609_Lab3.dll.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/CP5609_Lab3.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
